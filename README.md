@@ -9,7 +9,7 @@ Este é um projeto simples desenvolvido em **C# com Windows Forms**, onde o usu�
 
 ## 📷 Print do Projeto
 
-![Print do Projeto](print.jpg)
+![Interface do Aplicativo](print.jpg)
 
 ---
 
